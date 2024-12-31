@@ -6,7 +6,7 @@ function Summary() {
       <h3 className="text-lg font-medium">Summary</h3>
       <div className="p-2.5 rounded-md flex justify-between items-center h-10 w-52 bg-red-100 max-sm:w-5/6">
         <span className="text-red-600 flex gap-2">
-          <img src="images/icon-reaction.svg" />
+          <img src="images/icon-reaction.svg" alt="reaction" />
           Reaction
         </span>
         <span>
@@ -15,7 +15,7 @@ function Summary() {
       </div>
       <div className="p-2.5 rounded-md flex justify-between items-center h-10 w-52 bg-yellow-100 max-sm:w-5/6">
         <span className="text-yellow-600 flex gap-2">
-          <img src="images/icon-memory.svg" /> Memory
+          <img src="images/icon-memory.svg" alt="memory" /> Memory
         </span>
         <span>
           <b>92</b> / 100
@@ -23,7 +23,7 @@ function Summary() {
       </div>
       <div className="p-2.5 rounded-md flex justify-between items-center h-10 w-52 bg-green-100 max-sm:w-5/6">
         <span className="text-green-600 flex gap-2">
-          <img src="images/icon-verbal.svg" /> Verbal
+          <img src="images/icon-verbal.svg" alt="verbal"/> Verbal
         </span>
         <span>
           <b>61</b> / 100
@@ -31,7 +31,7 @@ function Summary() {
       </div>
       <div className="p-2.5 rounded-md flex justify-between items-center h-10 w-52 bg-blue-100 max-sm:w-5/6">
         <span className="text-blue-600 flex gap-2">
-          <img src="images/icon-visual.svg" /> Visual
+          <img src="images/icon-visual.svg" alt="visual" /> Visual
         </span>
         <span>
           <b>72</b> / 100

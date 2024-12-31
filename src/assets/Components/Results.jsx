@@ -9,7 +9,7 @@ function Results() {
         <span className=""> of 100 </span>
       </div>
 
-      <h2 className="text-3xl font-semibold">Great</h2>
+      <h1 className="text-3xl font-semibold">Great</h1>
       <p className="w-56 text-lg text-center p-2.5 m-2.5 max-sm:w-5/6">
         You scored higher than 65% of the people who have taken these tests.
       </p>
