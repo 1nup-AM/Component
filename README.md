@@ -18,8 +18,8 @@ This is my solution for the react challenge given by frontend mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/1nup-AM/Component/tree/main
+- Live Site URL: https://1nup-am.github.io/Component/
 
 ## My process
 
@@ -32,7 +32,7 @@ This is my solution for the react challenge given by frontend mentor.
 - Tailwind Docs
 
 ### What I learned
-While creating the project, i learned the mobile-first workflow, read the tailwind css docs and got better at writing designs. I also learned about thinking in React approach.
+While creating the project, i learned the mobile-first workflow, read the tailwind css docs and got better at writing designs. I also learned about thinking in React approach. While deploying the project, i came upon the issue of getting blank pages after deploying my site. I resolved it by reading github docs.
 
 
 
@@ -48,5 +48,4 @@ So I will be focusing on responsive development more in future projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@1nup-AM](https://www.frontendmentor.io/profile/1nup-AM)
